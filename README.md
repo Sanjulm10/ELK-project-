@@ -56,7 +56,6 @@ To study Active Directory and SIEM, I created a project in my virtual box. I set
 ## Detailed Setup Instructions
 
 - [Domain Controller Setup](https://github.com/Sanjulm10/ELK-project-/blob/94ae8d596447a29183bf5082a61dc26d13bd0a9d/Docs/domain_controller_setup.md)
-- [User Creation](docs/user_creation.md)
 - [ELK Setup](docs/elk_setup.md)
 - [Logs from Endpoints](docs/logs_from_endpoints.md)
 
