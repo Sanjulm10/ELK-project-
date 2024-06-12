@@ -56,6 +56,7 @@ This document provides detailed steps to set up a new domain controller named "s
 
   ![Domain Controller Setup](https://github.com/Sanjulm10/ELK-project-/blob/d04c3ab9b87338b01f8c143bb86f505fa2fbf702/screen/2024-05-30%2019_29_27-AD%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
+![Domain Controller Setup](https://github.com/Sanjulm10/ELK-project-/blob/5c5a10bd6ca3756698930534b3c89fe4759f0e2e/screen/2024-05-30%2019_30_37-AD%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
 ## Screenshot
 
