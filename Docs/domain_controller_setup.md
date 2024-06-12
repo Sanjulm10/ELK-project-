@@ -28,11 +28,22 @@ This document provides detailed steps to set up a new domain controller named "s
 2. In the **Deployment Configuration** wizard:
    - Select **Add a new forest**.
    - Enter the **Root domain name** as `soc.team` and click **Next**.
+   
+   ![Root domain name](https://github.com/Sanjulm10/ELK-project-/blob/c14a5fac5463c07174e296507ce2e7d058dc7aa6/screen/WhatsApp%20Image%202024-05-30%20at%2018.23.52_f921c1c0.jpg)
+
 3. On the **Domain Controller Options** page:
    - Ensure **Domain Name System (DNS) server** and **Global Catalog (GC)** are checked.
    - Set the **Directory Services Restore Mode (DSRM) password** and click **Next**.
+   
+   ![Domain Controller Options](https://github.com/Sanjulm10/ELK-project-/blob/c14a5fac5463c07174e296507ce2e7d058dc7aa6/screen/WhatsApp%20Image%202024-05-30%20at%2018.23.43_ab29f111.jpg)
+
 4. Continue through the wizard, leaving default selections where appropriate, and click **Next** until you reach the **Install** page.
+
+   ![Install Page](https://github.com/Sanjulm10/ELK-project-/blob/c14a5fac5463c07174e296507ce2e7d058dc7aa6/screen/Screenshot%202024-05-30%20181825.png)
+
 5. Click **Install**. The server will restart once the installation is complete.
+
+   ![Post-Install](https://github.com/Sanjulm10/ELK-project-/blob/c14a5fac5463c07174e296507ce2e7d058dc7aa6/screen/2024-05-30%2022_49_34-AD%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png).
 
 ## Step 4: Create Organizational Units and Users
 
