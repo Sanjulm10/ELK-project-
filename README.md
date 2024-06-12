@@ -51,28 +51,14 @@ To study Active Directory and SIEM, I created a project in my virtual box. I set
    - Investigate the alerts generated.
 
 ## Diagram
+   ![Project Setup Diagram](https://github.com/Sanjulm10/ELK-project-/blob/23b0f6bc80fdb128642de89479ba1649472b696c/Untitled%20Diagram.drawio.png)
 
-![Project Setup Diagram](https://github.com/Sanjulm10/ELK-project-/blob/23b0f6bc80fdb128642de89479ba1649472b696c/Untitled%20Diagram.drawio.png)
+## Detailed Setup Instructions
 
-## Screenshots
-
-Here are some screenshots illustrating the project setup and results:
-
-### Domain Controller Setup
-
-![Domain Controller Setup](screenshots/domain_controller_setup.png)
-
-### User Creation
-
-![User Creation](screenshots/user_creation.png)
-
-### ELK Setup
-
-![ELK Setup](screenshots/elk_setup.png)
-
-### Logs from Endpoints
-
-![Logs from Endpoints](screenshots/logs_from_endpoints.png)
+- [Domain Controller Setup](docs/domain_controller_setup.md)
+- [User Creation](docs/user_creation.md)
+- [ELK Setup](docs/elk_setup.md)
+- [Logs from Endpoints](docs/logs_from_endpoints.md)
 
 ## Issues and Troubleshooting
 
