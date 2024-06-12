@@ -50,9 +50,25 @@ To study Active Directory and SIEM, I created a project in my virtual box. I set
    - Attempt to brute force the users in Active Directory to generate alerts in the SIEM.
    - Investigate the alerts generated.
 
-## Diagram
+## Screenshots
 
-*(Include your project setup diagram here)*
+Here are some screenshots illustrating the project setup and results:
+
+### Domain Controller Setup
+
+![Domain Controller Setup](screenshots/domain_controller_setup.png)
+
+### User Creation
+
+![User Creation](screenshots/user_creation.png)
+
+### ELK Setup
+
+![ELK Setup](screenshots/elk_setup.png)
+
+### Logs from Endpoints
+
+![Logs from Endpoints](screenshots/logs_from_endpoints.png)
 
 ## Issues and Troubleshooting
 
