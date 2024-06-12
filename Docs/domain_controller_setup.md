@@ -54,8 +54,11 @@ This document provides detailed steps to set up a new domain controller named "s
    - **First name**: Arjun
    - **User logon name**: arjun@soc.team
 
+  ![Domain Controller Setup](https://github.com/Sanjulm10/ELK-project-/blob/d04c3ab9b87338b01f8c143bb86f505fa2fbf702/screen/2024-05-30%2019_29_27-AD%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
+
+
 ## Screenshot
 
-![Domain Controller Setup](../images/domain_controller_setup.png)
+
 
 [Back to Main Page](../README.md)
