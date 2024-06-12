@@ -52,7 +52,7 @@ To study Active Directory and SIEM, I created a project in my virtual box. I set
 
 ## Diagram
 
-![Project Setup Diagram](Untitled Diagram.drawio.png)
+![Project Setup Diagram](https://github.com/Sanjulm10/ELK-project-/blob/23b0f6bc80fdb128642de89479ba1649472b696c/Untitled%20Diagram.drawio.png)
 
 ## Screenshots
 
