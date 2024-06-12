@@ -52,7 +52,7 @@ To study Active Directory and SIEM, I created a project in my virtual box. I set
 
 ## Diagram
 
-![Project Setup Diagram](diagram.png)
+![Project Setup Diagram](Untitled Diagram.drawio.png)
 
 ## Screenshots
 
